@@ -1,6 +1,7 @@
 html {
   background-image: url("https://eus-www.sway-cdn.com/s/ltM3SCiOBnTEV8Jo/images/vSz8MHW1Ej3R6o?quality=1080&isThumbnail=True");
-  background-size: 1500px 900px
+  background-size: 1500px 900px;
+  align-content: center;
 }
 li a {
   background-color: pink;
