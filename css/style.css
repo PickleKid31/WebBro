@@ -6,6 +6,7 @@ a {
   text-decoration: none;
   border: 5px black;
   border-radius: 15px;
+  color: black;
 }
 a:hover {
   background-color: red;
