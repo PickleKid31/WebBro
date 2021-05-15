@@ -3,7 +3,7 @@ html {
   background-size: 1500px 900px;
   align-content: center;
 }
-li a {
+a {
   background-color: pink;
   height: 40px;
   text-align: center;
@@ -13,6 +13,7 @@ li a {
   border-radius: 15px;
   color: black;
   display: inline-block;
+  margin: auto;
 }
 a:hover {
   background-color: red;
