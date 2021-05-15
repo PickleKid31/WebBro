@@ -11,7 +11,7 @@ a {
   border: 5px black;
   border-radius: 15px;
   color: black;
-  float: center;
+  display: inline-block;
 }
 a:hover {
   background-color: red;
